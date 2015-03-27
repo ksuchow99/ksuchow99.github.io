@@ -4,9 +4,7 @@ body{
   font-family: Arial;
 }
 .pageHeader{
-  margin-left: 100px;
-  margin-top: 100px;
-  margin-bottom: 50px;
+  margin: 100px;
 }
 .pageDivider{
   width: 90%;
