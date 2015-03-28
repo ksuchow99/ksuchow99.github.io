@@ -9,3 +9,6 @@ body{
 .pageDivider{
   width: 90%;
 }
+.intLink{
+  float: left;
+}
